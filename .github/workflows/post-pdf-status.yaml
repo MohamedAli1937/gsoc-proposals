@@ -1,6 +1,7 @@
 name: PDF Link
 
-on: status
+on:
+  - status
 
 permissions: {}
 
